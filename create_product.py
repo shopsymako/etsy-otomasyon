@@ -52,7 +52,7 @@ def find_new_design_from_git():
     """GitHub Actions icinde, son commit'te 'designs/' altina eklenen
     gorseli bulur. Yerel (manuel) calistirmada kullanilmaz."""
     result = subprocess.run(
-        ["git", "diff", "--name-only", "--diff-filter=A", "HEAD~1", "HEAD"],
+        ["git", "diff", "--name-only", "--diff-filter=ACMR", "HEAD~1", "HEAD"],
         capture_output=True, text=True,
     )
     changed_files = result.stdout.strip().split("\n")
