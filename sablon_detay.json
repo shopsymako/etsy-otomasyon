@@ -1,0 +1,302 @@
+{
+  "id": "1c1567ee-40b5-485f-a558-469cb8440aac",
+  "clientId": "f0ef7dea-87a9-4cfa-89d8-c5e147b7f487",
+  "templateName": "Hallowen T-shirt | Leopard",
+  "title": "Hallowen T-shirt | Leopard",
+  "description": "🎨Design by Mako\n\n👕 Product Features:\n\nComfortable unisex fit (size up for an oversized look)\n\nPre-shrunk and long-lasting print\n\nDurable\n\nSolid colors are made from 100% ring-spun cotton; Sport Grey is 90% ring-spun cotton, 10% polyester; Heather colors are 35% cotton, 65% polyester; Graphite Heather is 65% cotton, 35% polyester.\n\n🎁 Perfect for:\n✔ Summer vacations\n✔ Beach days and sunsets\n✔ Cruise wear\n✔ Casual daywear\n✔ Birthday gifts\n\n💦 Instructions:\n\nMachine wash in cold water (recommended)\n\nTumble dry on low heat\n\nDo not bleach\n\nIron inside out if necessary\n\nDo not dry clean\n\n🚚 Return Information:\nEvery shirt is made to order just for you, which helps us reduce waste and stay sustainable . Therefore, we cannot accept returns or exchanges due to size or color selection, so please check the size chart carefully before ordering.\n\nHowever, if there is any problem or defect, message us with a photo within 30 days and we will exchange it for free...\n\n👇\nVisit my page to send me your designs and get in touch regarding custom print designs. Alternatively, we can collaborate to create a design tailored to your specific requests and needs. The custom print designs I create will be free of charge.",
+  "productType": null,
+  "vendor": null,
+  "previewUrl": "https://gelato-api-live.s3.eu-west-1.amazonaws.com/ecommerce/store_product_image/2667a072-76bb-4409-8955-76f66024fdc1/preview?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIA3QM3COBP5QN4IUGA%2F20260907%2Feu-west-1%2Fs3%2Faws4_request&X-Amz-Date=20260907T105911Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=2d00abc0a2fc0e6a9e81f6cd63692a8bb879cb6b52a6f114af5d6a651b663628",
+  "variants": [
+    {
+      "id": "d847a006-79e0-4151-b2b4-6b28309694ea",
+      "title": "Black - L - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_l_gco_black_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Size",
+          "value": "L"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "387984e6-9136-419f-b7f7-a0295716e148",
+      "title": "Black - S - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_s_gco_black_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "21d8e3fa-4556-4828-997b-9b796c39a978",
+      "title": "Black - M - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_m_gco_black_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Size",
+          "value": "M"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "e70f4c9a-12dd-4e4c-90c7-91c4487da03b",
+      "title": "White - S - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_s_gco_white_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "name": "Size",
+          "value": "S"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "1f858c0e-d043-45a0-bbac-69275b25f8c3",
+      "title": "Black - XL - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_xl_gco_black_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Size",
+          "value": "XL"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "99364a99-e01e-47b1-a746-bb181c73f792",
+      "title": "White - 2XL - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_2xl_gco_white_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "name": "Size",
+          "value": "2XL"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "b3380eb5-3b9a-4f00-86ca-810d850f0590",
+      "title": "White - M - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_m_gco_white_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "name": "Size",
+          "value": "M"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "e56f361f-ad92-4951-84ea-8c2a17e00b0e",
+      "title": "White - XL - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_xl_gco_white_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "name": "Size",
+          "value": "XL"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "773b6541-b2c9-48d5-b00c-bab14cd82042",
+      "title": "White - L - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_l_gco_white_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "name": "Size",
+          "value": "L"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "f8af9f16-1251-43c2-965a-e205d82602d3",
+      "title": "White - 3XL - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_3xl_gco_white_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "White"
+        },
+        {
+          "name": "Size",
+          "value": "3XL"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "61efe955-90c7-4bd5-aee8-1b28d05daeeb",
+      "title": "Black - 2XL - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_2xl_gco_black_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Size",
+          "value": "2XL"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    },
+    {
+      "id": "d4c70111-d2e7-406b-822e-43cbd675208e",
+      "title": "Black - 3XL - DTG (Direct-to-garment)",
+      "productUid": "apparel_product_gca_t-shirt_gsc_crewneck_gcu_unisex_gqa_classic_gsi_3xl_gco_black_gpr_4-0_gildan_64000",
+      "variantOptions": [
+        {
+          "name": "Color",
+          "value": "Black"
+        },
+        {
+          "name": "Size",
+          "value": "3XL"
+        }
+      ],
+      "imagePlaceholders": [
+        {
+          "name": "Halloween_Leopard_TRANSPARENT_Gelato_300x400mm_300DPI.png",
+          "height": 385.3333333333,
+          "width": 289,
+          "printArea": "front"
+        }
+      ],
+      "textPlaceholders": []
+    }
+  ],
+  "createdAt": "2026-09-07T10:49:03+0000",
+  "updatedAt": "2026-09-07T10:49:03+0000"
+}
