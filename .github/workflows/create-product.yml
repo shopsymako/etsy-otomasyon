@@ -1,0 +1,33 @@
+name: Yeni Tasarimdan Urun Olustur
+
+on:
+  push:
+    paths:
+      - 'designs/**'
+    branches:
+      - main
+
+jobs:
+  create-product:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Repoyu indir
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Python kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Kutuphaneleri kur
+        run: pip install requests Pillow
+
+      - name: Urunu olustur
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GELATO_API_KEY: ${{ secrets.GELATO_API_KEY }}
+          GELATO_STORE_ID: ${{ secrets.GELATO_STORE_ID }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
+        run: python create_product.py
